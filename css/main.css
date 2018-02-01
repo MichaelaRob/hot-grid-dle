@@ -40,9 +40,6 @@ figcaption {
   color: #fff;
   padding: 1rem;
   border-radius: .7em;
-}
-
-.text-box {
   position: absolute;
   max-width: 15em;
   bottom: .5rem;
